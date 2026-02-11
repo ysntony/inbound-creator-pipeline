@@ -1,4 +1,4 @@
-# Meshy Creator Program - Fillout Form Spec (Lovable-Inspired)
+# Meshy Makers - Fillout Form Spec (Lovable-Inspired)
 
 ## 1) Form Theme & Layout
 **Layout:** multi-step (1 question per screen or grouped by section) with a strong intro screen.
@@ -11,8 +11,8 @@
 - Add logo to header (top-left)
 
 **Intro screen copy**
-- Title: `Meshy Creator Program`
-- Subtitle: `Apply to create 3D content with meshy.ai, earn revenue share, and get spotlighted.`
+- Title: `Meshy Makers`
+- Subtitle: `Apply to create 3D content with Meshy, earn revenue share, and get spotlighted.`
 - CTA button: `Start Application`
 - Time estimate: `2–3 minutes`
 
@@ -39,18 +39,18 @@
 - `Example content link` (URL) → Notion `Content Examples`
 
 ### Section C — Build In Public (Project Fit)
-- `Describe a project you would build with meshy.ai` (Long answer) → Notion `Project Idea`
+- `Describe a project you would build with Meshy` (Long answer) → Notion `Project Idea`
 - `Which workflows do you cover?` (Checkboxes: Blender, Unreal, Unity, 3D Printing, Game Assets, Concept Art, Other)
 - `How would you document the build in public?` (Long answer)
 
 ### Section D — Program Intent
-- `Why do you want to join the program?` (Long answer) → Notion `Why Meshy.ai`
+- `Why do you want to join the program?` (Long answer) → Notion `Why Meshy`
 - `How often do you publish content today?` (Multiple choice)
 - `Can you commit to 4 pieces per month?` (Yes/No) → Notion `Content Commitment` (new checkbox)
 - `I agree to share basic performance metrics` (Checkbox)
 
 ### Section E — Optional
-- `How did you hear about meshy.ai?` (Multiple choice) → Notion `Acquisition Source` (optional)
+- `How did you hear about Meshy?` (Multiple choice) → Notion `Acquisition Source` (optional)
 - `Anything else we should know?` (Long answer) → Notion `Notes`
 
 ---
@@ -83,5 +83,5 @@ Link the text to:
 
 ## 6) Recommended URL + Share Image
 - Live form URL: `https://forms.fillout.com/t/e9o8WkxWoWus`
-- Form URL slug: `meshy-creator-program`
+- Form URL slug: `meshy-makers`
 - Social share image: use logo + tagline (placeholder ok for now)

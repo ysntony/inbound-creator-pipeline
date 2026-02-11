@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Meshy Makers social banner 2">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111a1e"/>
+      <stop offset="100%" stop-color="#0b1113"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg2)"/>
+  <rect x="70" y="90" width="1060" height="450" rx="40" fill="#161f23" stroke="#1f2a2f" stroke-width="4"/>
+  <image href="logo.png" x="120" y="140" width="120" height="120" />
+  <text x="270" y="210" fill="#f2f4f0" font-size="48" font-family="Space Grotesk, sans-serif" font-weight="700">Meshy Makers</text>
+  <text x="120" y="300" fill="#f2f4f0" font-size="64" font-family="Fraunces, serif" font-weight="700">4 pieces / month</text>
+  <text x="120" y="380" fill="#a2b0b6" font-size="28" font-family="Space Grotesk, sans-serif">Short-form · Long-form · Project showcase</text>
+  <rect x="120" y="430" width="360" height="64" rx="32" fill="#C5F955"/>
+  <text x="300" y="472" fill="#0b1113" font-size="26" font-family="Space Grotesk, sans-serif" font-weight="700" text-anchor="middle">Apply now</text>
+</svg>

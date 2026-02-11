@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-label="Meshy Makers badge">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#C5F955"/>
+      <stop offset="100%" stop-color="#F6C453"/>
+    </linearGradient>
+  </defs>
+  <rect x="30" y="30" width="540" height="540" rx="120" fill="#0f1518" stroke="url(#accent)" stroke-width="10"/>
+  <circle cx="300" cy="250" r="150" fill="#161f23" stroke="#1f2a2f" stroke-width="6"/>
+  <image href="logo.png" x="210" y="160" width="180" height="180" />
+  <text x="300" y="460" fill="#f2f4f0" font-size="44" font-family="Space Grotesk, sans-serif" text-anchor="middle" font-weight="700">Meshy Makers</text>
+  <text x="300" y="505" fill="#a2b0b6" font-size="20" font-family="Space Grotesk, sans-serif" text-anchor="middle">Creator Program</text>
+</svg>

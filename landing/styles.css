@@ -277,6 +277,19 @@ main {
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
 }
 
+.manifesto {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  padding: 1.8rem;
+  box-shadow: var(--shadow);
+  max-width: 720px;
+}
+
+.manifesto p {
+  color: var(--ink);
+}
+
 .step,
 .benefits article,
 .tiers article,
@@ -303,8 +316,31 @@ main {
 }
 
 .tier-highlight {
-  border: 1px solid rgba(79, 209, 197, 0.6);
-  box-shadow: 0 20px 60px rgba(79, 209, 197, 0.15);
+  border: 1px solid rgba(197, 249, 85, 0.6);
+  box-shadow: 0 20px 60px rgba(197, 249, 85, 0.2);
+}
+
+.kit-grid {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+}
+
+.kit-grid article {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  padding: 1.5rem;
+  display: grid;
+  gap: 1rem;
+  box-shadow: var(--shadow);
+}
+
+.kit-grid img {
+  width: 100%;
+  border-radius: 16px;
+  border: 1px solid var(--border);
+  background: #0b1113;
 }
 
 .apply-card {

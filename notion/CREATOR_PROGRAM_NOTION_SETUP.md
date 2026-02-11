@@ -1,4 +1,4 @@
-# Meshy Creator Program - Notion Setup
+# Meshy Makers - Notion Setup
 
 This setup uses four databases. Create each database first, then add relations and rollups.
 
@@ -18,7 +18,7 @@ This setup uses four databases. Create each database first, then add relations a
 - `Avg Views (last 5)` (Number)
 - `Content Examples` (URL)
 - `Project Idea` (Text)
-- `Why Meshy.ai` (Text)
+- `Why Meshy` (Text)
 - `Program Fit Score` (Number, 0–100)
 - `Tier Recommendation` (Select: Builder, Creator, Partner)
 - `Status` (Select: Applied, Qualified, Accepted, Active, Rejected)
@@ -121,4 +121,3 @@ Create templates in the `Creators` database:
 3. On acceptance, create a `Creator` record and link it via `Creator Record`.
 4. Create 4 `Content Deliverables` per month per creator.
 5. Track performance in deliverables and review monthly.
-

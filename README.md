@@ -1,6 +1,6 @@
-# Inbound Creator Pipeline (Example: Meshy)
+# Inbound Creator Pipeline (Example: Meshy Makers)
 
-A practical inbound creator pipeline built for growth marketers. This repo uses **Meshy** as the example program, but the framework is reusable for any product that relies on creator-led growth.
+A practical inbound creator pipeline built for growth marketers. This repo uses **Meshy Makers** as the example program, but the framework is reusable for any product that relies on creator-led growth.
 
 ## What this project is
 A ready-to-ship pipeline for:
@@ -36,7 +36,7 @@ This is designed for **inbound** applications (creators apply to you), not outbo
 4. **Publish the landing page**
    - Host via GitHub Pages, Vercel, Netlify, or your site builder.
 
-## Example program assumptions (Meshy)
+## Example program assumptions (Meshy Makers)
 - Primary platform: YouTube
 - Primary tier: 10k–150k subscribers
 - Content cadence: 4 pieces/month
